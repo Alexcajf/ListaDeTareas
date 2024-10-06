@@ -1,0 +1,1 @@
+cabe resaltar que para que funcione siempre debe tener una entrada y para que aparezca la opcion de eliminar algun elemento de la lista tendras que pasar el cursor por encima de la tarea que deseas eliminar, ademas se guardara la informacion que uses al momento de recargar. 
